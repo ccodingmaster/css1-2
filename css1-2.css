@@ -9,7 +9,7 @@
 
 
 
-#read {
+h1 {
     color: #000;
     font-size: 62px;
     font-family: Lato;
@@ -197,6 +197,7 @@
     width: 407px;
     height: 24px;
     gap: 8px;
+    vertical-align: middle;
 
 
 }
@@ -211,6 +212,7 @@
     width: 399px;
     height: 24px;
     gap: 8px;
+    vertical-align: middle;
 
 }
 
@@ -224,6 +226,7 @@
     width: 467px;
     height: 24px;
     gap: 8px;
+    vertical-align: middle;
 
 }
 
@@ -253,15 +256,18 @@
 
 #bullet {
     padding-right: 12px;
+    vertical-align: middle;
 
 }
 
 #bullett {
     padding-right: 12px;
+    vertical-align: middle;
 
 }
 
 #bullettt {
     padding-right: 12px;
+    vertical-align: middle;
 
 }
